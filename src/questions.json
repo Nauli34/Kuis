@@ -1,0 +1,390 @@
+[
+    {
+        "id": 1,
+        "category": "Geografi",
+        "question": "Nama ibu kota Prancis?",
+        "options": ["Paris", "London", "Berlin", "Madrid"],
+        "answer": "Paris",
+        "type": "multiple-choice",
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2c/07/a8/2c/caption.jpg?w=1400&h=1400&s=1"
+    },
+    {
+        "id": 2,
+        "category": "Geografi",
+        "question": "Gunung tertinggi di dunia adalah?",
+        "options": ["Kilimanjaro", "Everest", "K2", "Makalu"],
+        "answer": "Everest",
+        "type": "multiple-choice",
+        "image": "https://akcdn.detik.net.id/visual/2021/10/31/ilustrasi-gunung-everest-1_169.jpeg?w=650"
+    },
+    {
+        "id": 3,
+        "category": "Geografi",
+        "question": "Di negara mana terletak Danau Baikal, dan apa keunikannya?",
+        "options": ["Rusia, danau terdalam di dunia", "Kanada, danau terbesar di Amerika Utara", "Amerika Serikat, danau terluas", "Brazil, danau dengan biodiversitas tertinggi"],
+        "answer": "Rusia, danau terdalam di dunia",
+        "type": "multiple-choice",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaJpiSVR7W08st-94TObdxstN_lteXiMrvTg&s"
+    },
+    {
+        "id": 4,
+        "category": "Geografi",
+        "question": "Apa nama laut yang memisahkan Eropa dan Asia?",
+        "options": ["Laut Karibia", "Laut Mediterrania", "Laut Kaspia", "Laut Cina Selatan"],
+        "answer": "Laut Kaspia",
+        "type": "multiple-choice",
+        "image": "https://asset.kompas.com/crops/KvL21Jr_3PgSj8DjKIMInpZZzpQ=/0x0:612x408/1200x800/data/photo/2023/05/11/645cd00cb23ec.jpeg"
+    },
+    {
+        "id": 5,
+        "category": "Geografi",
+        "question": "Apa nama rangkaian gunung yang membentang dari barat ke timur di sepanjang batas antara Eropa dan Asia?",
+        "options": ["Pegunungan Himalaya", "Pegunungan Alpen", "Pegunungan Ural", "Pegunungan Andes"],
+        "answer": "Pegunungan Ural",
+        "type": "multiple-choice",
+        "image": "https://awsimages.detik.net.id/community/media/visual/2019/10/28/af080db7-8aa0-4223-a89e-33c1ab1d86d3.jpeg?w=600&q=90"
+    },
+    {
+        "id": 6,
+        "category": "Geografi",
+        "question": "Jelaskan proses pembentukan gunung berapi dan sebutkan contoh gunung berapi aktif di dunia.",
+        "answer": "Gunung berapi terbentuk melalui aktivitas magma yang naik dari dalam bumi dan keluar melalui letusan di permukaan. Proses ini melibatkan pembentukan kerucut gunung berapi dari lava, abu, dan material vulkanik lainnya. Contoh gunung berapi aktif adalah Gunung Etna di Italia, Gunung Merapi di Indonesia, dan Gunung Kilauea di Hawaii.",
+        "type": "essay"
+    },
+    {
+        "id": 7,
+        "category": "Geografi",
+        "question": "Deskripsikan dampak perubahan iklim terhadap lingkungan pesisir dan berikan contoh spesifik.",
+        "answer": "Perubahan iklim dapat menyebabkan kenaikan permukaan laut, peningkatan suhu air laut, dan lebih sering terjadi badai tropis. Dampak ini dapat mengakibatkan erosi pesisir, kerusakan terumbu karang, dan kehilangan habitat untuk spesies laut. Contoh spesifik termasuk kehilangan pulau-pulau kecil di Pasifik dan kerusakan terumbu karang Great Barrier Reef di Australia.",
+        "type": "essay"
+    },
+    {
+        "id": 8,
+        "category": "Geografi",
+        "question": "Apa perbedaan antara iklim mediterania dan iklim tropis, dan bagaimana perbedaan tersebut mempengaruhi jenis vegetasi di masing-masing iklim?",
+        "answer": "Iklim mediterania ditandai dengan musim panas yang panas dan kering serta musim dingin yang sejuk dan lembap. Vegetasi yang umum meliputi semak-semak, pohon zaitun, dan tanaman herbal. Iklim tropis memiliki suhu tinggi sepanjang tahun dengan curah hujan yang tinggi dan merata. Vegetasi yang umum di iklim ini termasuk hutan hujan tropis, dengan flora yang sangat beragam dan lebat.",
+        "type": "essay"
+    },
+    {
+        "id": 9,
+        "category": "Geografi",
+        "question": "Bagaimana proses erosi oleh air mempengaruhi lanskap suatu daerah dan apa peranannya dalam pembentukan lembah?",
+        "answer": "Erosi oleh air terjadi ketika aliran air mengikis tanah dan batuan, mengubah bentuk dan struktur lanskap. Proses ini dapat menciptakan lembah yang dalam dengan dinding curam, terutama di daerah dengan curah hujan tinggi atau aliran sungai yang kuat. Sebagai contoh, Grand Canyon di Amerika Serikat adalah hasil dari erosi oleh Sungai Colorado.",
+        "type": "essay"
+    },
+    {
+        "id": 10,
+        "category": "Geografi",
+        "question": "Diskusikan pengaruh aktivitas manusia terhadap siklus hidrologi dan berikan contoh bagaimana urbanisasi mempengaruhi siklus ini.",
+        "answer": "Aktivitas manusia seperti urbanisasi dapat mengubah siklus hidrologi dengan mengurangi permeabilitas tanah karena beton dan aspal, menyebabkan peningkatan aliran air permukaan dan pengurangan infiltrasi. Hal ini dapat mengakibatkan peningkatan risiko banjir dan penurunan kualitas air. Contoh adalah banjir urban yang sering terjadi di kota-kota besar akibat saluran pembuangan yang tidak memadai.",
+        "type": "essay"
+    },
+    {
+        "id": 11,
+        "category": "Matematika",
+        "question": "Cryptarithm: Temukan nilai huruf dalam persamaan: SEND + MORE = MONEY",
+        "options": ["A: 5, B: 2, C: 3, D: 9", "A: 1, B: 8, C: 7, D: 6", "A: 9, B: 5, C: 6, D: 2", "A: 2, B: 9, C: 4, D: 8"],
+        "answer": "A: 9, B: 5, C: 6, D: 2",
+        "type": "multiple-choice",
+        "image": "https://www.puzzleprime.com/wp-content/uploads/2021/08/DudeneySendMoreMoney-1024x512.png"
+    },
+    {
+        "id": 12,
+        "category": "Matematika",
+        "question": "Cryptarithm: Selesaikan huruf-huruf dalam persamaan: AB + BC = AC",
+        "options": ["A: 2, B: 3, C: 5", "A: 4, B: 7, C: 1", "A: 3, B: 5, C: 8", "A: 1, B: 9, C: 0"],
+        "answer": "A: 3, B: 5, C: 8",
+        "type": "multiple-choice"
+    },
+    {   
+        "id": 13,
+        "category": "Matematika",
+        "question": "Olimpiade: Berapakah nilai x jika 2x + 3 = 7?",
+        "options": ["1", "2", "3", "4"],
+        "answer": "2",
+        "type": "multiple-choice"
+    },
+    {
+        "id": 14,
+        "category": "Matematika",
+        "question": "Olimpiade: Selesaikan x dalam persamaan: 3x - 4 = 2x + 5",
+        "options": ["5", "6", "7", "8"],
+        "answer": "9",
+        "type": "multiple-choice"
+    },
+    {
+        "id": 15,
+        "category": "Matematika",
+        "question": "Hitunglah luas segitiga dengan alas 10 cm dan tinggi 5 cm.",
+        "answer": "Luas segitiga = 0.5 * alas * tinggi = 0.5 * 10 * 5 = 25 cm²",
+        "type": "essay"
+    },
+    {
+        "id": 16,
+        "category": "Matematika",
+        "question": "Buktikan bahwa jumlah dari dua bilangan ganjil selalu genap.",
+        "answer": "Jika kita ambil dua bilangan ganjil, misalnya a dan b, maka kita dapat menuliskan keduanya dalam bentuk a = 2m + 1 dan b = 2n + 1, di mana m dan n adalah bilangan bulat. Jumlah dari a dan b adalah (2m + 1) + (2n + 1) = 2m + 2n + 2 = 2(m + n + 1), yang jelas merupakan bilangan genap karena dapat dibagi oleh 2 tanpa sisa.",
+        "type": "essay"
+    },
+    {
+        "id": 17,
+        "category": "Matematika",
+        "question": "Hitunglah volume bola dengan jari-jari 7 cm menggunakan rumus volume bola.",
+        "answer": "Rumus volume bola adalah V = (4/3)πr³, di mana r adalah jari-jari bola. Dengan jari-jari r = 7 cm, volume V = (4/3)π(7)³ = (4/3)π(343) ≈ 1436.76 cm³.",
+        "type": "essay"
+    },
+    {
+        "id": 18,
+        "category": "Matematika",
+        "question": "Selesaikan sistem persamaan berikut menggunakan metode substitusi atau eliminasi: 2x + 3y = 12 dan x - y = 1.",
+        "answer": "Dari persamaan x - y = 1, kita dapat menyatakan x = y + 1. Substitusikan x = y + 1 ke dalam persamaan 2x + 3y = 12: 2(y + 1) + 3y = 12. Simplifikasi: 2y + 2 + 3y = 12, 5y + 2 = 12, 5y = 10, y = 2. Kemudian substitusi y = 2 ke dalam x = y + 1, x = 2 + 1 = 3. Jadi, solusi dari sistem persamaan adalah x = 3 dan y = 2.",
+        "type": "essay"
+    },
+    {
+        "id": 19,
+        "category": "Matematika",
+        "question": "Tunjukkan bahwa akar kuadrat dari 2 adalah bilangan irasional.",
+        "answer": "Untuk menunjukkan bahwa √2 adalah bilangan irasional, kita dapat menggunakan pembuktian dengan kontradiksi. Misalkan √2 adalah rasional, maka dapat dinyatakan sebagai a/b, di mana a dan b adalah bilangan bulat yang tidak memiliki faktor persekutuan selain 1 (a/b dalam bentuk sederhana). Jika √2 = a/b, maka 2 = a²/b², sehingga a² = 2b². Ini berarti a² adalah bilangan genap, sehingga a juga harus genap. Misalkan a = 2k, maka a² = 4k², sehingga 4k² = 2b² dan b² = 2k², yang berarti b² juga genap, dan b juga harus genap. Ini bertentangan dengan asumsi awal bahwa a dan b adalah bilangan bulat yang tidak memiliki faktor persekutuan selain 1. Jadi, √2 adalah bilangan irasional.",
+        "type": "essay"
+    },
+    {
+        "id": 20,
+        "category": "Matematika",
+        "question": "Berikan bukti bahwa jumlah sudut interior pada sebuah segi-n adalah (n-2) × 180 derajat.",
+        "answer": "Bukti dilakukan dengan memecah segi-n menjadi (n-2) segitiga. Setiap segitiga memiliki jumlah sudut 180 derajat. Karena segi-n dapat dibagi menjadi (n-2) segitiga, maka jumlah sudut interior pada segi-n adalah (n-2) × 180 derajat.",
+        "type": "essay"
+    },
+    {
+        "id": 21,
+        "category": "Sejarah Dunia",
+        "question": "Siapa penulis buku 'The Prince' yang terkenal pada abad ke-16?",
+        "options": ["Machiavelli", "Plato", "Aristotle", "Socrates"],
+        "answer": "Machiavelli",
+        "type": "multiple-choice"
+    },
+    {
+        "id": 22,
+        "category": "Sejarah Dunia",
+        "question": "Apa nama kapal yang digunakan oleh Christopher Columbus dalam pelayarannya yang pertama ke Dunia Baru?",
+        "options": ["Nina", "Pinta", "Santa Maria", "Santa Clara"],
+        "answer": "Santa Maria",
+        "type": "multiple-choice",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrU4OWr_2fcIUDKF2-uJoPmhG_TfYQWx0Qdg&s"
+    },
+    {
+        "id": 23,
+        "category": "Sejarah Dunia",
+        "question": "Siapa yang menjadi Kaisar pertama Kekaisaran Romawi?",
+        "options": ["Julius Caesar", "Augustus", "Nero", "Trajan"],
+        "answer": "Augustus",
+        "type": "multiple-choice",
+        "image": "https://cdn.idntimes.com/content-images/community/2019/08/julius-caesar-4-b6ae04a1baf989821a8cc2d004bb54c7.jpg"
+    },
+    {
+        "id": 24,
+        "category": "Sejarah Dunia",
+        "question": "Apa nama perjanjian yang mengakhiri Perang Dunia I?",
+        "options": ["Perjanjian Versailles", "Perjanjian Paris", "Perjanjian Potsdam", "Perjanjian Yalta"],
+        "answer": "Perjanjian Versailles",
+        "type": "multiple-choice"
+    },
+    {
+        "id": 25,
+        "category": "Sejarah Dunia",
+        "question": "Siapa yang menjadi pemimpin Revolusi Rusia pada tahun 1917?",
+        "options": ["Vladimir Lenin", "Joseph Stalin", "Leon Trotsky", "Nicholas II"],
+        "answer": "Vladimir Lenin",
+        "type": "multiple-choice",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Lenin_in_1920_%28cropped%29.jpg"
+    },
+    {
+        "id": 26,
+        "category": "Sejarah Dunia",
+        "question": "Jelaskan penyebab utama Perang Dunia II dan dampaknya terhadap dunia setelah perang berakhir.",
+        "answer": "Penyebab utama Perang Dunia II termasuk ambisi ekspansionis Jerman di bawah pimpinan Adolf Hitler, kebangkitan fasisme di Italia dan Jepang, serta kegagalan Liga Bangsa-Bangsa untuk mencegah agresi internasional. Dampak setelah perang berakhir termasuk pembentukan PBB, pembagian Eropa menjadi blok Barat dan Timur, serta awal Perang Dingin antara Amerika Serikat dan Uni Soviet.",
+        "type": "essay",
+        "image": "https://cdn.britannica.com/26/188426-050-2AF26954/Germany-Poland-September-1-1939.jpg"
+    },
+    {
+        "id": 27,
+        "category": "Sejarah Dunia",
+        "question": "Deskripsikan peran dan kontribusi Mahatma Gandhi dalam perjuangan kemerdekaan India dari penjajahan Inggris.",
+        "answer": "Mahatma Gandhi memainkan peran penting dalam perjuangan kemerdekaan India dengan menggunakan metode non-kekerasan atau satyagraha. Ia memimpin berbagai kampanye melawan kekuasaan kolonial Inggris, termasuk gerakan Salt March dan boykot barang-barang Inggris. Pendekatan non-kekerasan Gandhi berhasil menggalang dukungan rakyat India dan meningkatkan tekanan terhadap Inggris untuk memberikan kemerdekaan.",
+        "type": "essay",
+        "image": "https://talkactive.co.id/wp-content/uploads/2019/04/mahatma-gandhi.jpg"
+    },
+    {
+        "id": 28,
+        "category": "Sejarah Dunia",
+        "question": "Jelaskan dampak Revolusi Industri terhadap masyarakat dan ekonomi di Inggris pada abad ke-19.",
+        "answer": "Revolusi Industri menyebabkan perubahan besar dalam masyarakat dan ekonomi Inggris. Dampaknya termasuk urbanisasi yang pesat dengan pertumbuhan kota-kota industri, perubahan dalam struktur kelas sosial, dan pergeseran dari ekonomi agraris ke ekonomi berbasis industri. Selain itu, ada peningkatan dalam produksi dan efisiensi, tetapi juga menyebabkan kondisi kerja yang buruk bagi pekerja, serta masalah lingkungan akibat polusi.",
+        "type": "essay"
+    },
+    {
+        "id": 29,
+        "category": "Sejarah Dunia",
+        "question": "Diskusikan pengaruh Renaissance terhadap seni dan budaya Eropa.",
+        "answer": "Renaissance membawa perubahan signifikan dalam seni dan budaya Eropa dengan penekanan pada humanisme, penemuan kembali budaya klasik, dan perkembangan teknik artistik baru seperti perspektif linier. Periode ini menyaksikan kemajuan besar dalam seni rupa, sastra, dan ilmu pengetahuan, dengan tokoh-tokoh seperti Leonardo da Vinci, Michelangelo, dan Galileo Galilei memainkan peran utama dalam pengembangan budaya Eropa.",
+        "type": "essay"
+    },
+    {
+        "id": 30,
+        "category": "Sejarah Dunia",
+        "question": "Analisis penyebab dan konsekuensi dari Revolusi Prancis bagi Eropa dan dunia.",
+        "answer": "Revolusi Prancis dipicu oleh ketidakpuasan sosial, ekonomi, dan politik terhadap monarki absolut, serta ketidakadilan dalam sistem feodal. Revolusi ini mengakibatkan perubahan besar dalam struktur sosial dan politik Prancis, termasuk pembentukan republik dan penghapusan monarki. Konsekuensi bagi Eropa dan dunia termasuk penyebaran ide-ide revolusi dan demokrasi, serta dampak langsung pada perang dan politik internasional melalui berbagai konflik yang mengikuti Revolusi Prancis.",
+        "type": "essay"
+    },
+    {
+        "id": 31,
+        "category": "Ilmu Pengetahuan Alam",
+        "question": "Jelaskan prinsip dasar dari hukum Newton tentang gerak pertama dan berikan contoh penerapannya dalam kehidupan sehari-hari.",
+        "answer": "Hukum Newton tentang gerak pertama, atau hukum inersia, menyatakan bahwa suatu benda akan tetap dalam keadaan diam atau bergerak lurus beraturan kecuali jika ada gaya yang bekerja padanya. Contoh penerapannya adalah ketika Anda duduk di kursi dan tiba-tiba kursi tersebut didorong, tubuh Anda tetap berada di posisi semula hingga dorongan kursi tersebut berhenti.",
+        "type": "essay"
+    },
+    {
+        "id": 32,
+        "category": "Ilmu Pengetahuan Alam",
+        "question": "Diskusikan peran fotosintesis dalam ekosistem dan bagaimana proses ini mempengaruhi rantai makanan.",
+        "answer": "Fotosintesis adalah proses di mana tumbuhan, alga, dan beberapa bakteri mengubah cahaya matahari menjadi energi kimia dalam bentuk glukosa dan oksigen. Proses ini sangat penting dalam ekosistem karena tumbuhan merupakan produsen primer dalam rantai makanan, menyediakan energi untuk konsumen tingkat pertama dan seterusnya. Fotosintesis juga menghasilkan oksigen yang diperlukan oleh makhluk hidup lainnya untuk bernapas.",
+        "type": "essay"
+    },
+    {
+        "id": 33,
+        "category": "Ilmu Pengetahuan Alam",
+        "question": "Apa yang dimaksud dengan hukum kekekalan energi dan bagaimana hukum ini berlaku dalam sistem tertutup?",
+        "answer": "Hukum kekekalan energi menyatakan bahwa energi tidak dapat diciptakan atau dimusnahkan, hanya dapat berubah bentuk. Dalam sistem tertutup, total energi tetap konstan meskipun energi tersebut bisa berubah dari satu bentuk ke bentuk lainnya, seperti dari energi kinetik menjadi energi potensial atau sebaliknya.",
+        "type": "essay"
+    },
+    {
+        "id": 34,
+        "category": "Ilmu Pengetahuan Alam",
+        "question": "Jelaskan proses siklus nitrogen dan pentingnya siklus ini bagi kehidupan di Bumi.",
+        "answer": "Siklus nitrogen melibatkan beberapa proses termasuk fiksasi nitrogen, nitrifikasi, denitrifikasi, dan amonifikasi. Nitrogen di atmosfer diubah menjadi bentuk yang dapat digunakan oleh tanaman melalui proses fiksasi nitrogen, sementara bakteri tanah mengubah amonia menjadi nitrat dan nitrit. Siklus ini penting karena nitrogen adalah elemen penting dalam asam amino dan protein, yang diperlukan untuk pertumbuhan dan perkembangan makhluk hidup.",
+        "type": "essay"
+    },
+    {
+        "id": 35,
+        "category": "Ilmu Pengetahuan Alam",
+        "question": "Bagaimana teori evolusi oleh seleksi alam menjelaskan keragaman spesies di Bumi?",
+        "answer": "Teori evolusi oleh seleksi alam yang dikemukakan oleh Charles Darwin menjelaskan bahwa spesies berevolusi melalui proses seleksi alam di mana individu dengan sifat-sifat yang lebih sesuai dengan lingkungannya memiliki kemungkinan lebih besar untuk bertahan hidup dan berkembang biak. Hal ini mengakibatkan perubahan perlahan dalam spesies dari generasi ke generasi dan menjelaskan keragaman spesies yang ada di Bumi.",
+        "type": "essay",
+        "image": "https://asset-a.grid.id/crop/0x0:0x0/700x465/photo/nationalgeographic/201009131301400_b.jpg"
+    },
+    {
+        "id": 36,
+        "category": "Ilmu Pengetahuan Alam",
+        "question": "Apa yang dimaksud dengan gaya sentripetal dalam fisika?",
+        "options": ["Gaya yang bekerja menjauh dari pusat lingkaran", "Gaya yang bekerja menuju pusat lingkaran", "Gaya yang bekerja sejajar dengan arah gerak", "Gaya yang bekerja melawan arah gerak"],
+        "answer": "Gaya yang bekerja menuju pusat lingkaran",
+        "type": "multiple-choice"
+    },
+    {
+        "id": 37,
+        "category": "Ilmu Pengetahuan Alam",
+        "question": "Apa zat penyusun utama dari inti sel?",
+        "options": ["DNA", "RNA", "Protein", "Karbohidrat"],
+        "answer": "DNA",
+        "type": "multiple-choice"
+    },
+    {
+        "id": 38,
+        "category": "Ilmu Pengetahuan Alam",
+        "question": "Apa nama proses di mana air berubah dari bentuk gas menjadi bentuk cair?",
+        "options": ["Penguapan", "Kondensasi", "Pembekuan", "Peleburan"],
+        "answer": "Kondensasi",
+        "type": "multiple-choice"
+    },
+    {
+        "id": 39,
+        "category": "Ilmu Pengetahuan Alam",
+        "question": "Apa jenis energi yang tersimpan dalam bahan bakar fosil?",
+        "options": ["Energi kinetik", "Energi potensial kimia", "Energi termal", "Energi listrik"],
+        "answer": "Energi potensial kimia",
+        "type": "multiple-choice"
+    },
+    {
+        "id": 40,
+        "category": "Ilmu Pengetahuan Alam",
+        "question": "Manakah dari berikut ini yang merupakan penyebab utama terjadinya gempa bumi?",
+        "options": ["Pergerakan tektonik lempeng", "Letusan gunung berapi", "Erosi tanah", "Perubahan suhu"],
+        "answer": "Pergerakan tektonik lempeng",
+        "type": "multiple-choice"
+    },
+    {
+        "id": 41,
+        "category": "Rekayasa Perangkat Lunak",
+        "question": "Apa yang dimaksud dengan UML dalam konteks rekayasa perangkat lunak?",
+        "options": ["Unified Modeling Language", "Uniform Modeling Language", "Unified Modeling Logic", "Uniform Modeling Logic"],
+        "answer": "Unified Modeling Language",
+        "type": "multiple-choice",
+        "image": "https://www.gliffy.com/sites/default/files/image/2020-07/image-blog-uml-2-5-diagram-types_0.jpg"
+    },
+    {
+        "id": 42,
+        "category": "Rekayasa Perangkat Lunak",
+        "question": "Apa yang dimaksud dengan 'refactoring' dalam pengembangan perangkat lunak?",
+        "options": ["Mengubah desain sistem secara keseluruhan", "Meningkatkan struktur kode tanpa mengubah fungsionalitasnya", "Menambah fitur baru ke perangkat lunak", "Menghapus kode yang tidak diperlukan"],
+        "answer": "Meningkatkan struktur kode tanpa mengubah fungsionalitasnya",
+        "type": "multiple-choice"
+    },
+    {
+        "id": 43,
+        "category": "Rekayasa Perangkat Lunak",
+        "question": "Apa yang dimaksud dengan 'Continuous Integration' (CI) dalam proses pengembangan perangkat lunak?",
+        "options": ["Proses pengembangan perangkat lunak secara berkelanjutan", "Integrasi kode secara otomatis ke dalam repositori utama", "Proses uji coba perangkat lunak secara berkelanjutan", "Pengembangan fitur secara bersamaan dengan tim"],
+        "answer": "Integrasi kode secara otomatis ke dalam repositori utama",
+        "type": "multiple-choice"
+    },
+    {
+        "id": 44,
+        "category": "Rekayasa Perangkat Lunak",
+        "question": "Apa yang dimaksud dengan 'Agile methodology' dalam pengembangan perangkat lunak?",
+        "options": ["Metodologi pengembangan berbasis dokumen", "Metodologi pengembangan berbasis produk", "Metodologi pengembangan yang fleksibel dan iteratif", "Metodologi pengembangan berbasis kebutuhan pelanggan"],
+        "answer": "Metodologi pengembangan yang fleksibel dan iteratif",
+        "type": "multiple-choice"
+    },
+    {
+        "id": 45,
+        "category": "Rekayasa Perangkat Lunak",
+        "question": "Apa perbedaan utama antara 'scrum' dan 'kanban' dalam metodologi Agile?",
+        "options": ["Scrum berfokus pada iterasi waktu, sedangkan Kanban berfokus pada aliran kerja kontinu", "Scrum adalah untuk pengembangan perangkat lunak, sedangkan Kanban adalah untuk manajemen proyek", "Scrum mengharuskan adanya tim tetap, sedangkan Kanban tidak", "Scrum lebih fokus pada dokumentasi daripada Kanban"],
+        "answer": "Scrum berfokus pada iterasi waktu, sedangkan Kanban berfokus pada aliran kerja kontinu",
+        "type": "multiple-choice"
+    },
+    {
+        "id": 46,
+        "category": "Rekayasa Perangkat Lunak",
+        "question": "Jelaskan prinsip-prinsip dasar dari 'Design Patterns' dalam rekayasa perangkat lunak dan berikan contoh penggunaannya.",
+        "answer": "Design Patterns adalah solusi umum yang dapat diterapkan pada masalah desain perangkat lunak yang sering dihadapi. Beberapa prinsip dasar dari design patterns termasuk pemisahan tanggung jawab, penggunaan abstraksi, dan pengurangan ketergantungan. Contoh penggunaannya adalah Singleton Pattern, yang memastikan hanya ada satu instance dari sebuah kelas dan memberikan titik akses global ke instance tersebut.",
+        "type": "essay"
+    },
+    {
+        "id": 47,
+        "category": "Rekayasa Perangkat Lunak",
+        "question": "Diskusikan peran dan pentingnya pengujian perangkat lunak dalam siklus hidup pengembangan perangkat lunak (SDLC).",
+        "answer": "Pengujian perangkat lunak adalah proses penting dalam siklus hidup pengembangan perangkat lunak (SDLC) yang bertujuan untuk memastikan bahwa perangkat lunak berfungsi sesuai dengan spesifikasi dan bebas dari cacat. Pengujian membantu mendeteksi bug dan masalah sebelum perangkat lunak dirilis ke pengguna akhir, meningkatkan kualitas produk, dan mengurangi biaya perbaikan masalah di kemudian hari. Jenis pengujian termasuk unit testing, integration testing, system testing, dan acceptance testing.",
+        "type": "essay"
+    },
+    {   
+        "id": 48,
+        "category": "Rekayasa Perangkat Lunak",
+        "question": "Apa yang dimaksud dengan 'software development life cycle' (SDLC) dan sebutkan tahap-tahap utamanya.",
+        "answer": "Software Development Life Cycle (SDLC) adalah proses yang digunakan untuk merancang, mengembangkan, dan memelihara perangkat lunak. Tahap-tahap utamanya meliputi perencanaan, analisis kebutuhan, desain, pengembangan, pengujian, implementasi, dan pemeliharaan. Setiap tahap memiliki tujuan dan aktivitas spesifik untuk memastikan keberhasilan proyek perangkat lunak.",
+        "type": "essay"
+    },
+    {
+        "id": 49,
+        "category": "Rekayasa Perangkat Lunak",
+        "question": "Jelaskan perbedaan antara 'waterfall model' dan 'Agile model' dalam pengembangan perangkat lunak.",
+        "answer": "Waterfall model adalah model pengembangan perangkat lunak yang bersifat linier dan sekuensial, di mana setiap tahap harus diselesaikan sebelum tahap berikutnya dimulai. Model ini lebih cocok untuk proyek dengan kebutuhan yang jelas dan stabil. Agile model, di sisi lain, adalah model pengembangan yang fleksibel dan iteratif, memungkinkan perubahan dan penyesuaian selama proses pengembangan. Agile berfokus pada kolaborasi, tanggapan terhadap perubahan, dan pengiriman inkremental.",
+        "type": "essay",
+        "image": "https://testsigma.com/blog/wp-content/uploads/Frame-48095882.png"
+    },
+    {
+        "id": 50,
+        "category": "Rekayasa Perangkat Lunak",
+        "question": "Tulis sebuah program sederhana dalam JavaScript yang mencetak 'Hello, World!' ke konsol.",
+        "answer": "```javascript\nconsole.log('Hello, World!');\n```",
+        "type": "essay"
+    }
+]
