@@ -234,81 +234,80 @@
         "answer": "Revolusi Prancis dipicu oleh ketidakpuasan sosial, ekonomi, dan politik terhadap monarki absolut, serta ketidakadilan dalam sistem feodal. Revolusi ini mengakibatkan perubahan besar dalam struktur sosial dan politik Prancis, termasuk pembentukan republik dan penghapusan monarki. Konsekuensi bagi Eropa dan dunia termasuk penyebaran ide-ide revolusi dan demokrasi, serta dampak langsung pada perang dan politik internasional melalui berbagai konflik yang mengikuti Revolusi Prancis.",
         "type": "essay"
     },
-    {
+     {
         "id": 31,
         "category": "Ilmu Pengetahuan Alam",
-        "question": "Jelaskan prinsip dasar dari hukum Newton tentang gerak pertama dan berikan contoh penerapannya dalam kehidupan sehari-hari.",
-        "answer": "Hukum Newton tentang gerak pertama, atau hukum inersia, menyatakan bahwa suatu benda akan tetap dalam keadaan diam atau bergerak lurus beraturan kecuali jika ada gaya yang bekerja padanya. Contoh penerapannya adalah ketika Anda duduk di kursi dan tiba-tiba kursi tersebut didorong, tubuh Anda tetap berada di posisi semula hingga dorongan kursi tersebut berhenti.",
-        "type": "essay"
+        "question": "Apa arti dari kata '书 (Shū)'?",
+        "options": ["Buku", "Meja", "Kursi", "Rumah"],
+        "answer": "Buku",
+        "type": "multiple-choice"
     },
     {
         "id": 32,
         "category": "Ilmu Pengetahuan Alam",
-        "question": "Diskusikan peran fotosintesis dalam ekosistem dan bagaimana proses ini mempengaruhi rantai makanan.",
-        "answer": "Fotosintesis adalah proses di mana tumbuhan, alga, dan beberapa bakteri mengubah cahaya matahari menjadi energi kimia dalam bentuk glukosa dan oksigen. Proses ini sangat penting dalam ekosistem karena tumbuhan merupakan produsen primer dalam rantai makanan, menyediakan energi untuk konsumen tingkat pertama dan seterusnya. Fotosintesis juga menghasilkan oksigen yang diperlukan oleh makhluk hidup lainnya untuk bernapas.",
-        "type": "essay"
+        "question": "Kata '桌子 (Zhuōzi)' dalam bahasa Indonesia artinya apa?",
+        "options": ["Pintu", "Meja", "Jendela", "Kursi"],
+        "answer": "Meja",
+        "type": "multiple-choice"
     },
     {
         "id": 33,
         "category": "Ilmu Pengetahuan Alam",
-        "question": "Apa yang dimaksud dengan hukum kekekalan energi dan bagaimana hukum ini berlaku dalam sistem tertutup?",
-        "answer": "Hukum kekekalan energi menyatakan bahwa energi tidak dapat diciptakan atau dimusnahkan, hanya dapat berubah bentuk. Dalam sistem tertutup, total energi tetap konstan meskipun energi tersebut bisa berubah dari satu bentuk ke bentuk lainnya, seperti dari energi kinetik menjadi energi potensial atau sebaliknya.",
-        "type": "essay"
+        "question": "Bagaimana cara mengucapkan 'kursi' dalam bahasa Mandarin?",
+        "options": ["书 (Shū)", "桌子 (Zhuōzi)", "椅子 (Yǐzi)", "床 (Chuáng)"],
+        "answer": "椅子 (Yǐzi)",
+        "type": "multiple-choice"
     },
     {
         "id": 34,
         "category": "Ilmu Pengetahuan Alam",
-        "question": "Jelaskan proses siklus nitrogen dan pentingnya siklus ini bagi kehidupan di Bumi.",
-        "answer": "Siklus nitrogen melibatkan beberapa proses termasuk fiksasi nitrogen, nitrifikasi, denitrifikasi, dan amonifikasi. Nitrogen di atmosfer diubah menjadi bentuk yang dapat digunakan oleh tanaman melalui proses fiksasi nitrogen, sementara bakteri tanah mengubah amonia menjadi nitrat dan nitrit. Siklus ini penting karena nitrogen adalah elemen penting dalam asam amino dan protein, yang diperlukan untuk pertumbuhan dan perkembangan makhluk hidup.",
-        "type": "essay"
+        "question": "Apa arti dari kata '床 (Chuáng)'?",
+        "options": ["Meja", "Kursi", "Tempat tidur", "Pintu"],
+        "answer": "Tempat tidur",
+        "type": "multiple-choice"
     },
     {
         "id": 35,
         "category": "Ilmu Pengetahuan Alam",
-        "question": "Bagaimana teori evolusi oleh seleksi alam menjelaskan keragaman spesies di Bumi?",
-        "answer": "Teori evolusi oleh seleksi alam yang dikemukakan oleh Charles Darwin menjelaskan bahwa spesies berevolusi melalui proses seleksi alam di mana individu dengan sifat-sifat yang lebih sesuai dengan lingkungannya memiliki kemungkinan lebih besar untuk bertahan hidup dan berkembang biak. Hal ini mengakibatkan perubahan perlahan dalam spesies dari generasi ke generasi dan menjelaskan keragaman spesies yang ada di Bumi.",
-        "type": "essay",
-        "image": "https://asset-a.grid.id/crop/0x0:0x0/700x465/photo/nationalgeographic/201009131301400_b.jpg"
+        "question": "Kata '房子 (Fángzi)' artinya apa dalam bahasa Indonesia?",
+        "options": ["Jendela", "Kursi", "Rumah", "Tempat tidur"],
+        "answer": "Rumah",
+        "type": "multiple-choice"
     },
     {
         "id": 36,
         "category": "Ilmu Pengetahuan Alam",
-        "question": "Apa yang dimaksud dengan gaya sentripetal dalam fisika?",
-        "options": ["Gaya yang bekerja menjauh dari pusat lingkaran", "Gaya yang bekerja menuju pusat lingkaran", "Gaya yang bekerja sejajar dengan arah gerak", "Gaya yang bekerja melawan arah gerak"],
-        "answer": "Gaya yang bekerja menuju pusat lingkaran",
-        "type": "multiple-choice"
+        "question": "Jelaskan penggunaan kata '书 (Shū)' dalam kalimat bahasa Mandarin dan berikan contohnya.",
+        "answer": "",
+        "type": "essay"
     },
     {
         "id": 37,
         "category": "Ilmu Pengetahuan Alam",
-        "question": "Apa zat penyusun utama dari inti sel?",
-        "options": ["DNA", "RNA", "Protein", "Karbohidrat"],
-        "answer": "DNA",
-        "type": "multiple-choice"
+        "question": "Tuliskan arti dari kalimat berikut dalam bahasa Indonesia: '我的房子很大。 (Wǒ de fángzi hěn dà)'",
+        "answer": "",
+        "type": "essay"
     },
     {
         "id": 38,
         "category": "Ilmu Pengetahuan Alam",
-        "question": "Apa nama proses di mana air berubah dari bentuk gas menjadi bentuk cair?",
-        "options": ["Penguapan", "Kondensasi", "Pembekuan", "Peleburan"],
-        "answer": "Kondensasi",
-        "type": "multiple-choice"
+        "question": "Sebutkan tiga kata benda dalam bahasa Mandarin beserta artinya dalam bahasa Indonesia.",
+        "answer": "",
+        "type": "essay"
     },
     {
         "id": 39,
         "category": "Ilmu Pengetahuan Alam",
-        "question": "Apa jenis energi yang tersimpan dalam bahan bakar fosil?",
-        "options": ["Energi kinetik", "Energi potensial kimia", "Energi termal", "Energi listrik"],
-        "answer": "Energi potensial kimia",
-        "type": "multiple-choice"
+        "question": "Apa perbedaan penggunaan kata '书 (Shū)' dan '桌子 (Zhuōzi)' dalam kalimat?",
+        "answer": "",
+        "type": "essay"
     },
     {
         "id": 40,
         "category": "Ilmu Pengetahuan Alam",
-        "question": "Manakah dari berikut ini yang merupakan penyebab utama terjadinya gempa bumi?",
-        "options": ["Pergerakan tektonik lempeng", "Letusan gunung berapi", "Erosi tanah", "Perubahan suhu"],
-        "answer": "Pergerakan tektonik lempeng",
-        "type": "multiple-choice"
+        "question": "Tuliskan lima kata benda dalam bahasa Mandarin yang digunakan dalam kehidupan sehari-hari.",
+        "answer": "",
+        "type": "essay"
     },
     {
         "id": 41,
