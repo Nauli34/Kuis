@@ -313,78 +313,76 @@
     {
         "id": 41,
         "category": "Rekayasa Perangkat Lunak",
-        "question": "Apa yang dimaksud dengan UML dalam konteks rekayasa perangkat lunak?",
-        "options": ["Unified Modeling Language", "Uniform Modeling Language", "Unified Modeling Logic", "Uniform Modeling Logic"],
-        "answer": "Unified Modeling Language",
-        "type": "multiple-choice",
-        "image": "https://www.gliffy.com/sites/default/files/image/2020-07/image-blog-uml-2-5-diagram-types_0.jpg"
+        "question": "Apa arti dari kata '你 (Nǐ)'?",
+        "options": ["Saya", "Baik", "Kamu", "Kami"],
+        "answer": "Kamu",
+        "type": "multiple-choice"
     },
     {
         "id": 42,
         "category": "Rekayasa Perangkat Lunak",
-        "question": "Apa yang dimaksud dengan 'refactoring' dalam pengembangan perangkat lunak?",
-        "options": ["Mengubah desain sistem secara keseluruhan", "Meningkatkan struktur kode tanpa mengubah fungsionalitasnya", "Menambah fitur baru ke perangkat lunak", "Menghapus kode yang tidak diperlukan"],
-        "answer": "Meningkatkan struktur kode tanpa mengubah fungsionalitasnya",
+        "question": "Kata '好 (Hǎo)' dalam bahasa Indonesia artinya apa?",
+        "options": ["Baik", "Apakah", "Juga", "Semua"],
+        "answer": "Baik",
         "type": "multiple-choice"
     },
     {
         "id": 43,
         "category": "Rekayasa Perangkat Lunak",
-        "question": "Apa yang dimaksud dengan 'Continuous Integration' (CI) dalam proses pengembangan perangkat lunak?",
-        "options": ["Proses pengembangan perangkat lunak secara berkelanjutan", "Integrasi kode secara otomatis ke dalam repositori utama", "Proses uji coba perangkat lunak secara berkelanjutan", "Pengembangan fitur secara bersamaan dengan tim"],
-        "answer": "Integrasi kode secara otomatis ke dalam repositori utama",
+        "question": "Bagaimana cara bertanya 'apakah' dalam bahasa Mandarin?",
+        "options": ["很 (Hěn)", "吗 (Ma)", "我 (Wǒ)", "都 (Dōu)"],
+        "answer": "吗 (Ma)",
         "type": "multiple-choice"
     },
     {
         "id": 44,
         "category": "Rekayasa Perangkat Lunak",
-        "question": "Apa yang dimaksud dengan 'Agile methodology' dalam pengembangan perangkat lunak?",
-        "options": ["Metodologi pengembangan berbasis dokumen", "Metodologi pengembangan berbasis produk", "Metodologi pengembangan yang fleksibel dan iteratif", "Metodologi pengembangan berbasis kebutuhan pelanggan"],
-        "answer": "Metodologi pengembangan yang fleksibel dan iteratif",
+        "question": "Apa arti dari kata '他 (Tā)' ketika merujuk pada laki-laki?",
+        "options": ["Kami", "Dia (laki-laki)", "Kalian", "Mereka"],
+        "answer": "Dia (laki-laki)",
         "type": "multiple-choice"
     },
     {
         "id": 45,
         "category": "Rekayasa Perangkat Lunak",
-        "question": "Apa perbedaan utama antara 'scrum' dan 'kanban' dalam metodologi Agile?",
-        "options": ["Scrum berfokus pada iterasi waktu, sedangkan Kanban berfokus pada aliran kerja kontinu", "Scrum adalah untuk pengembangan perangkat lunak, sedangkan Kanban adalah untuk manajemen proyek", "Scrum mengharuskan adanya tim tetap, sedangkan Kanban tidak", "Scrum lebih fokus pada dokumentasi daripada Kanban"],
-        "answer": "Scrum berfokus pada iterasi waktu, sedangkan Kanban berfokus pada aliran kerja kontinu",
+        "question": "Kata '我们 (Wǒmen)' artinya apa dalam bahasa Indonesia?",
+        "options": ["Saya", "Kalian", "Kami", "Mereka"],
+        "answer": "Kami",
         "type": "multiple-choice"
     },
     {
         "id": 46,
         "category": "Rekayasa Perangkat Lunak",
-        "question": "Jelaskan prinsip-prinsip dasar dari 'Design Patterns' dalam rekayasa perangkat lunak dan berikan contoh penggunaannya.",
-        "answer": "Design Patterns adalah solusi umum yang dapat diterapkan pada masalah desain perangkat lunak yang sering dihadapi. Beberapa prinsip dasar dari design patterns termasuk pemisahan tanggung jawab, penggunaan abstraksi, dan pengurangan ketergantungan. Contoh penggunaannya adalah Singleton Pattern, yang memastikan hanya ada satu instance dari sebuah kelas dan memberikan titik akses global ke instance tersebut.",
+        "question": "Jelaskan penggunaan kata '你 (Nǐ)' dan berikan contoh kalimat dalam bahasa Mandarin yang menggunakannya.",
+        "answer": "",
         "type": "essay"
     },
     {
         "id": 47,
         "category": "Rekayasa Perangkat Lunak",
-        "question": "Diskusikan peran dan pentingnya pengujian perangkat lunak dalam siklus hidup pengembangan perangkat lunak (SDLC).",
-        "answer": "Pengujian perangkat lunak adalah proses penting dalam siklus hidup pengembangan perangkat lunak (SDLC) yang bertujuan untuk memastikan bahwa perangkat lunak berfungsi sesuai dengan spesifikasi dan bebas dari cacat. Pengujian membantu mendeteksi bug dan masalah sebelum perangkat lunak dirilis ke pengguna akhir, meningkatkan kualitas produk, dan mengurangi biaya perbaikan masalah di kemudian hari. Jenis pengujian termasuk unit testing, integration testing, system testing, dan acceptance testing.",
+        "question": "Tuliskan arti dari kalimat berikut dalam bahasa Indonesia: '我也很好。 (Wǒ yě hěn hǎo)'",
+        "answer": "",
         "type": "essay"
     },
-    {   
+    {
         "id": 48,
         "category": "Rekayasa Perangkat Lunak",
-        "question": "Apa yang dimaksud dengan 'software development life cycle' (SDLC) dan sebutkan tahap-tahap utamanya.",
-        "answer": "Software Development Life Cycle (SDLC) adalah proses yang digunakan untuk merancang, mengembangkan, dan memelihara perangkat lunak. Tahap-tahap utamanya meliputi perencanaan, analisis kebutuhan, desain, pengembangan, pengujian, implementasi, dan pemeliharaan. Setiap tahap memiliki tujuan dan aktivitas spesifik untuk memastikan keberhasilan proyek perangkat lunak.",
+        "question": "Sebutkan tiga kata yang memiliki arti 'dia' dalam bahasa Mandarin dan perbedaan penggunaannya.",
+        "answer": "",
         "type": "essay"
     },
     {
         "id": 49,
         "category": "Rekayasa Perangkat Lunak",
-        "question": "Jelaskan perbedaan antara 'waterfall model' dan 'Agile model' dalam pengembangan perangkat lunak.",
-        "answer": "Waterfall model adalah model pengembangan perangkat lunak yang bersifat linier dan sekuensial, di mana setiap tahap harus diselesaikan sebelum tahap berikutnya dimulai. Model ini lebih cocok untuk proyek dengan kebutuhan yang jelas dan stabil. Agile model, di sisi lain, adalah model pengembangan yang fleksibel dan iteratif, memungkinkan perubahan dan penyesuaian selama proses pengembangan. Agile berfokus pada kolaborasi, tanggapan terhadap perubahan, dan pengiriman inkremental.",
-        "type": "essay",
-        "image": "https://testsigma.com/blog/wp-content/uploads/Frame-48095882.png"
+        "question": "Apa fungsi dari partikel '吗 (Ma)' dalam kalimat tanya bahasa Mandarin?",
+        "answer": "",
+        "type": "essay"
     },
     {
         "id": 50,
         "category": "Rekayasa Perangkat Lunak",
-        "question": "Tulis sebuah program sederhana dalam JavaScript yang mencetak 'Hello, World!' ke konsol.",
-        "answer": "```javascript\nconsole.log('Hello, World!');\n```",
+        "question": "Tuliskan lima kata dasar bahasa Mandarin beserta artinya dalam bahasa Indonesia.",
+        "answer": "",
         "type": "essay"
     }
 ]
