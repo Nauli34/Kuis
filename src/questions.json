@@ -236,8 +236,7 @@
     "options": ["Tas buku", "Tas tangan", "Koper", "Tas ransel"],
     "answer": "Tas buku",
     "type": "multiple-choice"
-}
-
+},
      {
         "id": 31,
         "category": "Ilmu Pengetahuan Alam",
