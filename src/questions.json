@@ -155,85 +155,89 @@
         "type": "essay"
     },
     {
-        "id": 21,
-        "category": "Sejarah Dunia",
-        "question": "Siapa penulis buku 'The Prince' yang terkenal pada abad ke-16?",
-        "options": ["Machiavelli", "Plato", "Aristotle", "Socrates"],
-        "answer": "Machiavelli",
-        "type": "multiple-choice"
-    },
-    {
-        "id": 22,
-        "category": "Sejarah Dunia",
-        "question": "Apa nama kapal yang digunakan oleh Christopher Columbus dalam pelayarannya yang pertama ke Dunia Baru?",
-        "options": ["Nina", "Pinta", "Santa Maria", "Santa Clara"],
-        "answer": "Santa Maria",
-        "type": "multiple-choice",
-        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrU4OWr_2fcIUDKF2-uJoPmhG_TfYQWx0Qdg&s"
-    },
-    {
-        "id": 23,
-        "category": "Sejarah Dunia",
-        "question": "Siapa yang menjadi Kaisar pertama Kekaisaran Romawi?",
-        "options": ["Julius Caesar", "Augustus", "Nero", "Trajan"],
-        "answer": "Augustus",
-        "type": "multiple-choice",
-        "image": "https://cdn.idntimes.com/content-images/community/2019/08/julius-caesar-4-b6ae04a1baf989821a8cc2d004bb54c7.jpg"
-    },
-    {
-        "id": 24,
-        "category": "Sejarah Dunia",
-        "question": "Apa nama perjanjian yang mengakhiri Perang Dunia I?",
-        "options": ["Perjanjian Versailles", "Perjanjian Paris", "Perjanjian Potsdam", "Perjanjian Yalta"],
-        "answer": "Perjanjian Versailles",
-        "type": "multiple-choice"
-    },
-    {
-        "id": 25,
-        "category": "Sejarah Dunia",
-        "question": "Siapa yang menjadi pemimpin Revolusi Rusia pada tahun 1917?",
-        "options": ["Vladimir Lenin", "Joseph Stalin", "Leon Trotsky", "Nicholas II"],
-        "answer": "Vladimir Lenin",
-        "type": "multiple-choice",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Lenin_in_1920_%28cropped%29.jpg"
-    },
-    {
-        "id": 26,
-        "category": "Sejarah Dunia",
-        "question": "Jelaskan penyebab utama Perang Dunia II dan dampaknya terhadap dunia setelah perang berakhir.",
-        "answer": "Penyebab utama Perang Dunia II termasuk ambisi ekspansionis Jerman di bawah pimpinan Adolf Hitler, kebangkitan fasisme di Italia dan Jepang, serta kegagalan Liga Bangsa-Bangsa untuk mencegah agresi internasional. Dampak setelah perang berakhir termasuk pembentukan PBB, pembagian Eropa menjadi blok Barat dan Timur, serta awal Perang Dingin antara Amerika Serikat dan Uni Soviet.",
-        "type": "essay",
-        "image": "https://cdn.britannica.com/26/188426-050-2AF26954/Germany-Poland-September-1-1939.jpg"
-    },
-    {
-        "id": 27,
-        "category": "Sejarah Dunia",
-        "question": "Deskripsikan peran dan kontribusi Mahatma Gandhi dalam perjuangan kemerdekaan India dari penjajahan Inggris.",
-        "answer": "Mahatma Gandhi memainkan peran penting dalam perjuangan kemerdekaan India dengan menggunakan metode non-kekerasan atau satyagraha. Ia memimpin berbagai kampanye melawan kekuasaan kolonial Inggris, termasuk gerakan Salt March dan boykot barang-barang Inggris. Pendekatan non-kekerasan Gandhi berhasil menggalang dukungan rakyat India dan meningkatkan tekanan terhadap Inggris untuk memberikan kemerdekaan.",
-        "type": "essay",
-        "image": "https://talkactive.co.id/wp-content/uploads/2019/04/mahatma-gandhi.jpg"
-    },
-    {
-        "id": 28,
-        "category": "Sejarah Dunia",
-        "question": "Jelaskan dampak Revolusi Industri terhadap masyarakat dan ekonomi di Inggris pada abad ke-19.",
-        "answer": "Revolusi Industri menyebabkan perubahan besar dalam masyarakat dan ekonomi Inggris. Dampaknya termasuk urbanisasi yang pesat dengan pertumbuhan kota-kota industri, perubahan dalam struktur kelas sosial, dan pergeseran dari ekonomi agraris ke ekonomi berbasis industri. Selain itu, ada peningkatan dalam produksi dan efisiensi, tetapi juga menyebabkan kondisi kerja yang buruk bagi pekerja, serta masalah lingkungan akibat polusi.",
-        "type": "essay"
-    },
-    {
-        "id": 29,
-        "category": "Sejarah Dunia",
-        "question": "Diskusikan pengaruh Renaissance terhadap seni dan budaya Eropa.",
-        "answer": "Renaissance membawa perubahan signifikan dalam seni dan budaya Eropa dengan penekanan pada humanisme, penemuan kembali budaya klasik, dan perkembangan teknik artistik baru seperti perspektif linier. Periode ini menyaksikan kemajuan besar dalam seni rupa, sastra, dan ilmu pengetahuan, dengan tokoh-tokoh seperti Leonardo da Vinci, Michelangelo, dan Galileo Galilei memainkan peran utama dalam pengembangan budaya Eropa.",
-        "type": "essay"
-    },
-    {
-        "id": 30,
-        "category": "Sejarah Dunia",
-        "question": "Analisis penyebab dan konsekuensi dari Revolusi Prancis bagi Eropa dan dunia.",
-        "answer": "Revolusi Prancis dipicu oleh ketidakpuasan sosial, ekonomi, dan politik terhadap monarki absolut, serta ketidakadilan dalam sistem feodal. Revolusi ini mengakibatkan perubahan besar dalam struktur sosial dan politik Prancis, termasuk pembentukan republik dan penghapusan monarki. Konsekuensi bagi Eropa dan dunia termasuk penyebaran ide-ide revolusi dan demokrasi, serta dampak langsung pada perang dan politik internasional melalui berbagai konflik yang mengikuti Revolusi Prancis.",
-        "type": "essay"
-    },
+    "id": 21,
+    "category": "Sejarah Dunia",
+    "question": "Apa arti dari kata '苹果 (Píngguǒ)'?",
+    "options": ["Jeruk", "Pisang", "Apel", "Anggur"],
+    "answer": "Apel",
+    "type": "multiple-choice"
+},
+{
+    "id": 22,
+    "category": "Sejarah Dunia",
+    "question": "Apa arti dari kata '水 (Shuǐ)'?",
+    "options": ["Api", "Air", "Tanah", "Udara"],
+    "answer": "Air",
+    "type": "multiple-choice",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrU4OWr_2fcIUDKF2-uJoPmhG_TfYQWx0Qdg&s"
+},
+{
+    "id": 23,
+    "category": "Sejarah Dunia",
+    "question": "Apa arti dari kata '老师 (Lǎoshī)'?",
+    "options": ["Siswa", "Guru", "Teman", "Orang tua"],
+    "answer": "Guru",
+    "type": "multiple-choice",
+    "image": "https://cdn.idntimes.com/content-images/community/2019/08/julius-caesar-4-b6ae04a1baf989821a8cc2d004bb54c7.jpg"
+},
+{
+    "id": 24,
+    "category": "Sejarah Dunia",
+    "question": "Apa arti dari kata '书 (Shū)'?",
+    "options": ["Buku", "Pena", "Meja", "Kursi"],
+    "answer": "Buku",
+    "type": "multiple-choice"
+},
+{
+    "id": 25,
+    "category": "Sejarah Dunia",
+    "question": "Apa arti dari kata '家 (Jiā)'?",
+    "options": ["Rumah", "Sekolah", "Pasar", "Taman"],
+    "answer": "Rumah",
+    "type": "multiple-choice",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Lenin_in_1920_%28cropped%29.jpg"
+},
+{
+    "id": 26,
+    "category": "Sejarah Dunia",
+    "question": "Apa arti dari kata '朋友 (Péngyǒu)'?",
+    "options": ["Teman", "Musuh", "Keluarga", "Rekan kerja"],
+    "answer": "Teman",
+    "type": "multiple-choice"
+},
+{
+    "id": 27,
+    "category": "Sejarah Dunia",
+    "question": "Apa arti dari kata '学校 (Xuéxiào)'?",
+    "options": ["Sekolah", "Kampus", "Kelas", "Laboratorium"],
+    "answer": "Sekolah",
+    "type": "multiple-choice"
+},
+{
+    "id": 28,
+    "category": "Sejarah Dunia",
+    "question": "Apa arti dari kata '水果 (Shuǐguǒ)'?",
+    "options": ["Sayur", "Buah", "Makanan", "Minuman"],
+    "answer": "Buah",
+    "type": "multiple-choice"
+},
+{
+    "id": 29,
+    "category": "Sejarah Dunia",
+    "question": "Apa arti dari kata '鱼 (Yú)'?",
+    "options": ["Ikan", "Daging", "Sayur", "Buah"],
+    "answer": "Ikan",
+    "type": "multiple-choice"
+},
+{
+    "id": 30,
+    "category": "Sejarah Dunia",
+    "question": "Apa arti dari kata '书包 (Shūbāo)'?",
+    "options": ["Tas buku", "Tas tangan", "Koper", "Tas ransel"],
+    "answer": "Tas buku",
+    "type": "multiple-choice"
+}
+
      {
         "id": 31,
         "category": "Ilmu Pengetahuan Alam",
@@ -314,79 +318,84 @@
         "answer": "Kelas",
         "type": "multiple-choice"
     }
-    {
+     {
         "id": 41,
         "category": "Rekayasa Perangkat Lunak",
         "question": "Apa arti dari kata '你 (Nǐ)'?",
-        "options": ["Saya", "Baik", "Kamu", "Kami"],
+        "options": ["Kamu", "Saya", "Dia", "Kami"],
         "answer": "Kamu",
         "type": "multiple-choice"
     },
     {
         "id": 42,
         "category": "Rekayasa Perangkat Lunak",
-        "question": "Kata '好 (Hǎo)' dalam bahasa Indonesia artinya apa?",
-        "options": ["Baik", "Apakah", "Juga", "Semua"],
+        "question": "Apa arti dari kata '好 (Hǎo)'?",
+        "options": ["Baik", "Apakah", "Kami", "Mereka"],
         "answer": "Baik",
         "type": "multiple-choice"
     },
     {
         "id": 43,
         "category": "Rekayasa Perangkat Lunak",
-        "question": "Bagaimana cara bertanya 'apakah' dalam bahasa Mandarin?",
-        "options": ["很 (Hěn)", "吗 (Ma)", "我 (Wǒ)", "都 (Dōu)"],
-        "answer": "吗 (Ma)",
+        "question": "Apa arti dari kata '吗 (Ma)'?",
+        "options": ["Apakah", "Kamu", "Dia", "Semua"],
+        "answer": "Apakah",
         "type": "multiple-choice"
     },
     {
         "id": 44,
         "category": "Rekayasa Perangkat Lunak",
-        "question": "Apa arti dari kata '他 (Tā)' ketika merujuk pada laki-laki?",
-        "options": ["Kami", "Dia (laki-laki)", "Kalian", "Mereka"],
-        "answer": "Dia (laki-laki)",
+        "question": "Apa arti dari kata '很 (Hěn)'?",
+        "options": ["Sangat", "Juga", "Saya", "Kalian"],
+        "answer": "Sangat",
         "type": "multiple-choice"
     },
     {
         "id": 45,
         "category": "Rekayasa Perangkat Lunak",
-        "question": "Kata '我们 (Wǒmen)' artinya apa dalam bahasa Indonesia?",
-        "options": ["Saya", "Kalian", "Kami", "Mereka"],
-        "answer": "Kami",
+        "question": "Apa arti dari kata '我 (Wǒ)'?",
+        "options": ["Saya", "Kamu", "Kami", "Dia"],
+        "answer": "Saya",
         "type": "multiple-choice"
     },
     {
         "id": 46,
         "category": "Rekayasa Perangkat Lunak",
-        "question": "Jelaskan penggunaan kata '你 (Nǐ)' dan berikan contoh kalimat dalam bahasa Mandarin yang menggunakannya.",
-        "answer": "",
-        "type": "essay"
+        "question": "Apa arti dari kata '也 (Yě)'?",
+        "options": ["Juga", "Semua", "Sangat", "Mereka"],
+        "answer": "Juga",
+        "type": "multiple-choice"
     },
     {
         "id": 47,
         "category": "Rekayasa Perangkat Lunak",
-        "question": "Tuliskan arti dari kalimat berikut dalam bahasa Indonesia: '我也很好。 (Wǒ yě hěn hǎo)'",
-        "answer": "",
-        "type": "essay"
+        "question": "Apa arti dari kata '你们 (Nǐmen)'?",
+        "options": ["Kalian", "Kami", "Dia", "Semua"],
+        "answer": "Kalian",
+        "type": "multiple-choice"
     },
     {
         "id": 48,
         "category": "Rekayasa Perangkat Lunak",
-        "question": "Sebutkan tiga kata yang memiliki arti 'dia' dalam bahasa Mandarin dan perbedaan penggunaannya.",
-        "answer": "",
-        "type": "essay"
+        "question": "Apa arti dari kata '她 (Tā)'?",
+        "options": ["Dia (Perempuan)", "Kamu", "Saya", "Kami"],
+        "answer": "Dia (Perempuan)",
+        "type": "multiple-choice"
     },
     {
         "id": 49,
         "category": "Rekayasa Perangkat Lunak",
-        "question": "Apa fungsi dari partikel '吗 (Ma)' dalam kalimat tanya bahasa Mandarin?",
-        "answer": "",
-        "type": "essay"
+        "question": "Apa arti dari kata '他 (Tā)'?",
+        "options": ["Dia (Laki-laki)", "Semua", "Kami", "Kalian"],
+        "answer": "Dia (Laki-laki)",
+        "type": "multiple-choice"
     },
     {
         "id": 50,
         "category": "Rekayasa Perangkat Lunak",
-        "question": "Tuliskan lima kata dasar bahasa Mandarin beserta artinya dalam bahasa Indonesia.",
-        "answer": "",
-        "type": "essay"
+        "question": "Apa arti dari kata '我们 (Wǒmen)'?",
+        "options": ["Kami", "Kalian", "Mereka", "Dia"],
+        "answer": "Kami",
+        "type": "multiple-choice"
     }
 ]
