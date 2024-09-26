@@ -316,7 +316,7 @@
         "options": ["Kelas", "Kursi", "Meja", "Rumah"],
         "answer": "Kelas",
         "type": "multiple-choice"
-    }
+    },
      {
         "id": 41,
         "category": "Rekayasa Perangkat Lunak",
