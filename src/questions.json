@@ -277,38 +277,43 @@
     {
         "id": 36,
         "category": "Ilmu Pengetahuan Alam",
-        "question": "Jelaskan penggunaan kata '书 (Shū)' dalam kalimat bahasa Mandarin dan berikan contohnya.",
-        "answer": "",
-        "type": "essay"
+        "question": "Apa arti dari kata '门 (Mén)'?",
+        "options": ["Jendela", "Pintu", "Rumah", "Buku"],
+        "answer": "Pintu",
+        "type": "multiple-choice"
     },
     {
         "id": 37,
         "category": "Ilmu Pengetahuan Alam",
-        "question": "Tuliskan arti dari kalimat berikut dalam bahasa Indonesia: '我的房子很大。 (Wǒ de fángzi hěn dà)'",
-        "answer": "",
-        "type": "essay"
+        "question": "Apa arti dari kata '窗户 (Chuānghu)'?",
+        "options": ["Jendela", "Rumah", "Pintu", "Tempat tidur"],
+        "answer": "Jendela",
+        "type": "multiple-choice"
     },
     {
         "id": 38,
         "category": "Ilmu Pengetahuan Alam",
-        "question": "Sebutkan tiga kata benda dalam bahasa Mandarin beserta artinya dalam bahasa Indonesia.",
-        "answer": "",
-        "type": "essay"
+        "question": "Kata '椅子 (Yǐzi)' dalam bahasa Indonesia artinya apa?",
+        "options": ["Kursi", "Tempat tidur", "Jendela", "Pintu"],
+        "answer": "Kursi",
+        "type": "multiple-choice"
     },
     {
         "id": 39,
         "category": "Ilmu Pengetahuan Alam",
-        "question": "Apa perbedaan penggunaan kata '书 (Shū)' dan '桌子 (Zhuōzi)' dalam kalimat?",
-        "answer": "",
-        "type": "essay"
+        "question": "Bagaimana cara mengucapkan 'rumah' dalam bahasa Mandarin?",
+        "options": ["书 (Shū)", "桌子 (Zhuōzi)", "房子 (Fángzi)", "椅子 (Yǐzi)"],
+        "answer": "房子 (Fángzi)",
+        "type": "multiple-choice"
     },
     {
         "id": 40,
         "category": "Ilmu Pengetahuan Alam",
-        "question": "Tuliskan lima kata benda dalam bahasa Mandarin yang digunakan dalam kehidupan sehari-hari.",
-        "answer": "",
-        "type": "essay"
-    },
+        "question": "Apa arti dari kata '教室 (Jiàoshì)'?",
+        "options": ["Kelas", "Kursi", "Meja", "Rumah"],
+        "answer": "Kelas",
+        "type": "multiple-choice"
+    }
     {
         "id": 41,
         "category": "Rekayasa Perangkat Lunak",
