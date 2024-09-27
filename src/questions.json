@@ -10,7 +10,7 @@
     },
     {
         "id": 2,
-        ""category": "Geografi",
+        "category": "Geografi",
         "question": "Bagaimana cara mengucapkan 'terima kasih' dalam Bahasa Mandarin?",
         "options": ["你好", "谢谢", "对不起", "请"],
         "answer": "谢谢",
