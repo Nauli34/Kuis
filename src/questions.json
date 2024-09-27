@@ -2,83 +2,93 @@
     {
         "id": 1,
         "category": "Geografi",
-        "question": "Nama ibu kota Prancis?",
-        "options": ["Paris", "London", "Berlin", "Madrid"],
-        "answer": "Paris",
+        "question": "Apa arti dari kata '你好' (nǐ hǎo)?",
+        "options": ["Selamat pagi", "Terima kasih", "Halo", "Sampai jumpa"],
+        "answer": "Halo",
         "type": "multiple-choice",
-        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2c/07/a8/2c/caption.jpg?w=1400&h=1400&s=1"
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Ni_Hao.png/800px-Ni_Hao.png"
     },
     {
         "id": 2,
-        "category": "Geografi",
-        "question": "Gunung tertinggi di dunia adalah?",
-        "options": ["Kilimanjaro", "Everest", "K2", "Makalu"],
-        "answer": "Everest",
+        ""category": "Geografi",
+        "question": "Bagaimana cara mengucapkan 'terima kasih' dalam Bahasa Mandarin?",
+        "options": ["你好", "谢谢", "对不起", "请"],
+        "answer": "谢谢",
         "type": "multiple-choice",
-        "image": "https://akcdn.detik.net.id/visual/2021/10/31/ilustrasi-gunung-everest-1_169.jpeg?w=650"
+        "image": "https://upload.wikimedia.org/wikipedia/commons/7/73/Xie_Xie_Chinese.png"
     },
     {
         "id": 3,
-        "category": "Geografi",
-        "question": "Di negara mana terletak Danau Baikal, dan apa keunikannya?",
-        "options": ["Rusia, danau terdalam di dunia", "Kanada, danau terbesar di Amerika Utara", "Amerika Serikat, danau terluas", "Brazil, danau dengan biodiversitas tertinggi"],
-        "answer": "Rusia, danau terdalam di dunia",
+        ""category": "Geografi",
+        "question": "Apa arti dari kata '再见' (zài jiàn)?",
+        "options": ["Selamat tinggal", "Halo", "Maaf", "Terima kasih"],
+        "answer": "Selamat tinggal",
         "type": "multiple-choice",
-        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaJpiSVR7W08st-94TObdxstN_lteXiMrvTg&s"
+        "image": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Zai_Jian.png"
     },
     {
         "id": 4,
         "category": "Geografi",
-        "question": "Apa nama laut yang memisahkan Eropa dan Asia?",
-        "options": ["Laut Karibia", "Laut Mediterrania", "Laut Kaspia", "Laut Cina Selatan"],
-        "answer": "Laut Kaspia",
+        "question": "Pilih pinyin yang benar untuk kata '你好'.",
+        "options": ["nǐ hǎo", "xiè xiè", "zài jiàn", "duì bù qǐ"],
+        "answer": "nǐ hǎo",
         "type": "multiple-choice",
-        "image": "https://asset.kompas.com/crops/KvL21Jr_3PgSj8DjKIMInpZZzpQ=/0x0:612x408/1200x800/data/photo/2023/05/11/645cd00cb23ec.jpeg"
+        "image": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Ni_Hao.png"
     },
     {
         "id": 5,
         "category": "Geografi",
-        "question": "Apa nama rangkaian gunung yang membentang dari barat ke timur di sepanjang batas antara Eropa dan Asia?",
-        "options": ["Pegunungan Himalaya", "Pegunungan Alpen", "Pegunungan Ural", "Pegunungan Andes"],
-        "answer": "Pegunungan Ural",
+        "question": "Apa arti dari kata '对不起' (duì bù qǐ)?",
+        "options": ["Maaf", "Halo", "Selamat tinggal", "Silakan"],
+        "answer": "Maaf",
         "type": "multiple-choice",
-        "image": "https://awsimages.detik.net.id/community/media/visual/2019/10/28/af080db7-8aa0-4223-a89e-33c1ab1d86d3.jpeg?w=600&q=90"
+        "image": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Dui_Bu_Qi.png"
     },
     {
         "id": 6,
         "category": "Geografi",
-        "question": "Jelaskan proses pembentukan gunung berapi dan sebutkan contoh gunung berapi aktif di dunia.",
-        "answer": "Gunung berapi terbentuk melalui aktivitas magma yang naik dari dalam bumi dan keluar melalui letusan di permukaan. Proses ini melibatkan pembentukan kerucut gunung berapi dari lava, abu, dan material vulkanik lainnya. Contoh gunung berapi aktif adalah Gunung Etna di Italia, Gunung Merapi di Indonesia, dan Gunung Kilauea di Hawaii.",
-        "type": "essay"
+        "question": "Bagaimana cara mengucapkan 'silakan' dalam Bahasa Mandarin?",
+        "options": ["请 (qǐng)", "谢谢 (xiè xiè)", "对不起 (duì bù qǐ)", "你好 (nǐ hǎo)"],
+        "answer": "请 (qǐng)",
+        "type": "multiple-choice",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/5/57/Qing_Chinese.png"
     },
     {
         "id": 7,
         "category": "Geografi",
-        "question": "Deskripsikan dampak perubahan iklim terhadap lingkungan pesisir dan berikan contoh spesifik.",
-        "answer": "Perubahan iklim dapat menyebabkan kenaikan permukaan laut, peningkatan suhu air laut, dan lebih sering terjadi badai tropis. Dampak ini dapat mengakibatkan erosi pesisir, kerusakan terumbu karang, dan kehilangan habitat untuk spesies laut. Contoh spesifik termasuk kehilangan pulau-pulau kecil di Pasifik dan kerusakan terumbu karang Great Barrier Reef di Australia.",
-        "type": "essay"
+        "question": "Apa arti dari kata '是' (shì)?",
+        "options": ["Iya", "Tidak", "Maaf", "Selamat tinggal"],
+        "answer": "Iya",
+        "type": "multiple-choice",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Shi_Chinese.png/800px-Shi_Chinese.png"
     },
     {
         "id": 8,
         "category": "Geografi",
-        "question": "Apa perbedaan antara iklim mediterania dan iklim tropis, dan bagaimana perbedaan tersebut mempengaruhi jenis vegetasi di masing-masing iklim?",
-        "answer": "Iklim mediterania ditandai dengan musim panas yang panas dan kering serta musim dingin yang sejuk dan lembap. Vegetasi yang umum meliputi semak-semak, pohon zaitun, dan tanaman herbal. Iklim tropis memiliki suhu tinggi sepanjang tahun dengan curah hujan yang tinggi dan merata. Vegetasi yang umum di iklim ini termasuk hutan hujan tropis, dengan flora yang sangat beragam dan lebat.",
-        "type": "essay"
+        "question": "Pilih pinyin yang benar untuk kata '谢谢'.",
+        "options": ["xiè xiè", "zài jiàn", "nǐ hǎo", "shì"],
+        "answer": "xiè xiè",
+        "type": "multiple-choice",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/7/73/Xie_Xie_Chinese.png"
     },
     {
         "id": 9,
         "category": "Geografi",
-        "question": "Bagaimana proses erosi oleh air mempengaruhi lanskap suatu daerah dan apa peranannya dalam pembentukan lembah?",
-        "answer": "Erosi oleh air terjadi ketika aliran air mengikis tanah dan batuan, mengubah bentuk dan struktur lanskap. Proses ini dapat menciptakan lembah yang dalam dengan dinding curam, terutama di daerah dengan curah hujan tinggi atau aliran sungai yang kuat. Sebagai contoh, Grand Canyon di Amerika Serikat adalah hasil dari erosi oleh Sungai Colorado.",
-        "type": "essay"
+        "question": "Bagaimana cara mengucapkan 'maaf' dalam Bahasa Mandarin?",
+        "options": ["谢谢", "对不起", "你好", "再见"],
+        "answer": "对不起",
+        "type": "multiple-choice",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Dui_Bu_Qi.png"
     },
     {
         "id": 10,
         "category": "Geografi",
-        "question": "Diskusikan pengaruh aktivitas manusia terhadap siklus hidrologi dan berikan contoh bagaimana urbanisasi mempengaruhi siklus ini.",
-        "answer": "Aktivitas manusia seperti urbanisasi dapat mengubah siklus hidrologi dengan mengurangi permeabilitas tanah karena beton dan aspal, menyebabkan peningkatan aliran air permukaan dan pengurangan infiltrasi. Hal ini dapat mengakibatkan peningkatan risiko banjir dan penurunan kualitas air. Contoh adalah banjir urban yang sering terjadi di kota-kota besar akibat saluran pembuangan yang tidak memadai.",
-        "type": "essay"
-    },
+        "question": "Apa arti dari '请' (qǐng)?",
+        "options": ["Silakan", "Terima kasih", "Halo", "Maaf"],
+        "answer": "Silakan",
+        "type": "multiple-choice",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/5/57/Qing_Chinese.png"
+    }
     {
         "id": 11,
         "category": "Matematika",
