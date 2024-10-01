@@ -92,77 +92,82 @@
     {
         "id": 11,
         "category": "Matematika",
-        "question": "Cryptarithm: Temukan nilai huruf dalam persamaan: SEND + MORE = MONEY",
-        "options": ["A: 5, B: 2, C: 3, D: 9", "A: 1, B: 8, C: 7, D: 6", "A: 9, B: 5, C: 6, D: 2", "A: 2, B: 9, C: 4, D: 8"],
-        "answer": "A: 9, B: 5, C: 6, D: 2",
-        "type": "multiple-choice",
-        "image": "https://www.puzzleprime.com/wp-content/uploads/2021/08/DudeneySendMoreMoney-1024x512.png"
+        "question": "Apa arti dari kata 'ciao' dalam bahasa Italia?",
+        "options": ["Salam", "Sampai jumpa", "Terima kasih", "Tolong"],
+        "answer": "Salam",
+        "type": "multiple-choice"
     },
     {
         "id": 12,
         "category": "Matematika",
-        "question": "Cryptarithm: Selesaikan huruf-huruf dalam persamaan: AB + BC = AC",
-        "options": ["A: 2, B: 3, C: 5", "A: 4, B: 7, C: 1", "A: 3, B: 5, C: 8", "A: 1, B: 9, C: 0"],
-        "answer": "A: 3, B: 5, C: 8",
+        "question": "Kata mana yang berarti 'terima kasih' dalam bahasa Italia?",
+        "options": ["Prego", "Grazie", "Per favore", "Scusa"],
+        "answer": "Grazie",
         "type": "multiple-choice"
     },
-    {   
+    {
         "id": 13,
         "category": "Matematika",
-        "question": "Olimpiade: Berapakah nilai x jika 2x + 3 = 7?",
-        "options": ["1", "2", "3", "4"],
-        "answer": "2",
+        "question": "Bagaimana cara mengatakan 'tolong' dalam bahasa Italia?",
+        "options": ["Grazie", "Per favore", "Scusa", "Arrivederci"],
+        "answer": "Per favore",
         "type": "multiple-choice"
     },
     {
         "id": 14,
         "category": "Matematika",
-        "question": "Olimpiade: Selesaikan x dalam persamaan: 3x - 4 = 2x + 5",
-        "options": ["5", "6", "7", "8"],
-        "answer": "9",
+        "question": "Bagaimana cara mengatakan 'selamat pagi' dalam bahasa Italia?",
+        "options": ["Ciao", "Buongiorno", "Buonasera", "Arrivederci"],
+        "answer": "Buongiorno",
         "type": "multiple-choice"
     },
     {
         "id": 15,
         "category": "Matematika",
-        "question": "Hitunglah luas segitiga dengan alas 10 cm dan tinggi 5 cm.",
-        "answer": "Luas segitiga = 0.5 * alas * tinggi = 0.5 * 10 * 5 = 25 cm²",
-        "type": "essay"
+        "question": "Bagaimana cara mengucapkan 'selamat sore' dalam bahasa Italia?",
+        "options": ["Buongiorno", "Buonasera", "Arrivederci", "Ciao"],
+        "answer": "Buonasera",
+        "type": "multiple-choice"
     },
     {
         "id": 16,
         "category": "Matematika",
-        "question": "Buktikan bahwa jumlah dari dua bilangan ganjil selalu genap.",
-        "answer": "Jika kita ambil dua bilangan ganjil, misalnya a dan b, maka kita dapat menuliskan keduanya dalam bentuk a = 2m + 1 dan b = 2n + 1, di mana m dan n adalah bilangan bulat. Jumlah dari a dan b adalah (2m + 1) + (2n + 1) = 2m + 2n + 2 = 2(m + n + 1), yang jelas merupakan bilangan genap karena dapat dibagi oleh 2 tanpa sisa.",
-        "type": "essay"
+        "question": "Frasa apa yang digunakan untuk mengucapkan 'sampai jumpa' dalam bahasa Italia?",
+        "options": ["Ciao", "Arrivederci", "Grazie", "Per favore"],
+        "answer": "Arrivederci",
+        "type": "multiple-choice"
     },
     {
         "id": 17,
         "category": "Matematika",
-        "question": "Hitunglah volume bola dengan jari-jari 7 cm menggunakan rumus volume bola.",
-        "answer": "Rumus volume bola adalah V = (4/3)πr³, di mana r adalah jari-jari bola. Dengan jari-jari r = 7 cm, volume V = (4/3)π(7)³ = (4/3)π(343) ≈ 1436.76 cm³.",
-        "type": "essay"
+        "question": "Bagaimana cara mengatakan 'maaf' dalam bahasa Italia?",
+        "options": ["Prego", "Grazie", "Scusa", "Ciao"],
+        "answer": "Scusa",
+        "type": "multiple-choice"
     },
     {
         "id": 18,
         "category": "Matematika",
-        "question": "Selesaikan sistem persamaan berikut menggunakan metode substitusi atau eliminasi: 2x + 3y = 12 dan x - y = 1.",
-        "answer": "Dari persamaan x - y = 1, kita dapat menyatakan x = y + 1. Substitusikan x = y + 1 ke dalam persamaan 2x + 3y = 12: 2(y + 1) + 3y = 12. Simplifikasi: 2y + 2 + 3y = 12, 5y + 2 = 12, 5y = 10, y = 2. Kemudian substitusi y = 2 ke dalam x = y + 1, x = 2 + 1 = 3. Jadi, solusi dari sistem persamaan adalah x = 3 dan y = 2.",
-        "type": "essay"
+        "question": "Bagaimana cara mengatakan 'terima kasih banyak' dalam bahasa Italia?",
+        "options": ["Grazie", "Grazie mille", "Arrivederci", "Buongiorno"],
+        "answer": "Grazie mille",
+        "type": "multiple-choice"
     },
     {
         "id": 19,
         "category": "Matematika",
-        "question": "Tunjukkan bahwa akar kuadrat dari 2 adalah bilangan irasional.",
-        "answer": "Untuk menunjukkan bahwa √2 adalah bilangan irasional, kita dapat menggunakan pembuktian dengan kontradiksi. Misalkan √2 adalah rasional, maka dapat dinyatakan sebagai a/b, di mana a dan b adalah bilangan bulat yang tidak memiliki faktor persekutuan selain 1 (a/b dalam bentuk sederhana). Jika √2 = a/b, maka 2 = a²/b², sehingga a² = 2b². Ini berarti a² adalah bilangan genap, sehingga a juga harus genap. Misalkan a = 2k, maka a² = 4k², sehingga 4k² = 2b² dan b² = 2k², yang berarti b² juga genap, dan b juga harus genap. Ini bertentangan dengan asumsi awal bahwa a dan b adalah bilangan bulat yang tidak memiliki faktor persekutuan selain 1. Jadi, √2 adalah bilangan irasional.",
-        "type": "essay"
+        "question": "Apa jawaban yang tepat untuk 'grazie' dalam bahasa Italia?",
+        "options": ["Prego", "Grazie", "Ciao", "Arrivederci"],
+        "answer": "Prego",
+        "type": "multiple-choice"
     },
     {
         "id": 20,
         "category": "Matematika",
-        "question": "Berikan bukti bahwa jumlah sudut interior pada sebuah segi-n adalah (n-2) × 180 derajat.",
-        "answer": "Bukti dilakukan dengan memecah segi-n menjadi (n-2) segitiga. Setiap segitiga memiliki jumlah sudut 180 derajat. Karena segi-n dapat dibagi menjadi (n-2) segitiga, maka jumlah sudut interior pada segi-n adalah (n-2) × 180 derajat.",
-        "type": "essay"
+        "question": "Kata apa yang digunakan untuk salam informal dalam bahasa Italia?",
+        "options": ["Ciao", "Buongiorno", "Arrivederci", "Buonasera"],
+        "answer": "Ciao",
+        "type": "multiple-choice"
     },
     {
     "id": 21,
